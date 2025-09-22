@@ -36,43 +36,6 @@ Currently focusing on **Infrastructure as Code (IaC)**, **Observability**, and *
 
 ---
 
-## 📈 What I Do
-
-* 🔧 **Automation with Ansible** – Playbooks for provisioning, configuration management, and deployment.
-* 🌍 **Infrastructure with Terraform** – Building AWS resources like **VPC, EKS clusters, and networking** using IaC.
-* 📊 **Observability with Prometheus & Grafana** – Collecting metrics, setting up alerts, and building dashboards.
-* ☸️ **Kubernetes Deployments** – Deploying applications with **Helm & ArgoCD**, managing services, and scaling workloads.
-* 🚀 **CI/CD Pipelines** – GitHub Actions, Jenkins & Slack integration with Docker and Kubernetes.
-
----
-
-## 🚀 Provisioning EKS with Terraform
-
-This repository includes **Terraform configurations** to provision an **Amazon EKS cluster** with the following:
-
-* **VPC & Subnets** – Networking setup for EKS.
-* **IAM Roles & Policies** – Secure access for EKS and worker nodes.
-* **EKS Cluster & Node Groups** – Managed node groups for workloads.
-* **S3 Backend** – Remote state management for collaboration.
-* **Outputs** – kubeconfig and cluster details for kubectl/Helm access.
-
-Typical workflow:
-
-```bash
-terraform init
-terraform plan
-terraform apply
-```
-
-Once applied, you can connect to the cluster with:
-
-```bash
-aws eks update-kubeconfig --region <region> --name <cluster_name>
-kubectl get nodes
-```
-
----
-
 ## 🌐 Socials
 
 <p align="left"> 
