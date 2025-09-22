@@ -27,12 +27,3 @@ and efficient systems. Eager to contribute to projects enhancing infrastructure 
 
 <a href="http://www.github.com/amrelabbasy11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amrelabbasy11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/amrelabbasy11/ CloudNativeGitOpsProfileService" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amrelabbasy11&repo= CloudNativeGitOpsProfileService&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/amrelabbasy11/Automated-Secrets-Lifecycle-Controller-for-Kubernetes-Clusters " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amrelabbasy11&repo=Automated-Secrets-Lifecycle-Controller-for-Kubernetes-Clusters &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/amrelabbasy11/Weather_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amrelabbasy11&repo=Weather_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/amrelabbasy11/ Automated-Secrets-Lifecycle-Controller-for-Kubernetes-Cluster" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amrelabbasy11&repo= Automated-Secrets-Lifecycle-Controller-for-Kubernetes-Cluster&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
