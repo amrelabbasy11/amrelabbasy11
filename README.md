@@ -27,6 +27,9 @@ Currently focusing on **Infrastructure as Code (IaC)**, **Observability**, and *
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="36" height="36" /></a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" title="Slack" width="36" height="36" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
 <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
 </p>
@@ -39,7 +42,34 @@ Currently focusing on **Infrastructure as Code (IaC)**, **Observability**, and *
 * 🌍 **Infrastructure with Terraform** – Building AWS resources like **VPC, EKS clusters, and networking** using IaC.
 * 📊 **Observability with Prometheus & Grafana** – Collecting metrics, setting up alerts, and building dashboards.
 * ☸️ **Kubernetes Deployments** – Deploying applications with **Helm & ArgoCD**, managing services, and scaling workloads.
-* 🚀 **CI/CD Pipelines** – GitHub Actions & Jenkins integration with Docker and Kubernetes.
+* 🚀 **CI/CD Pipelines** – GitHub Actions, Jenkins & Slack integration with Docker and Kubernetes.
+
+---
+
+## 🚀 Provisioning EKS with Terraform
+
+This repository includes **Terraform configurations** to provision an **Amazon EKS cluster** with the following:
+
+* **VPC & Subnets** – Networking setup for EKS.
+* **IAM Roles & Policies** – Secure access for EKS and worker nodes.
+* **EKS Cluster & Node Groups** – Managed node groups for workloads.
+* **S3 Backend** – Remote state management for collaboration.
+* **Outputs** – kubeconfig and cluster details for kubectl/Helm access.
+
+Typical workflow:
+
+```bash
+terraform init
+terraform plan
+terraform apply
+```
+
+Once applied, you can connect to the cluster with:
+
+```bash
+aws eks update-kubeconfig --region <region> --name <cluster_name>
+kubectl get nodes
+```
 
 ---
 
