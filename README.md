@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps, Cloud and System admin Engineer
 ---------------------------------------
 
-Passionate and driven Computer Engineering student specializing in DevOps, system administration, and cloud technologies. Aim to apply technical expertise and problem-solving skills to build scalable, secure,
-
-and efficient systems. Eager to contribute to projects enhancing infrastructure automation, CI/CD pipelines, and cloud-native deployments. Seeking an opportunity to grow, innovate, and make a meaningful impact in a forward-thinking, fast-paced tech environment.
+Passionate and driven Computer Engineering student specializing in DevOps, system administration, and cloud technologies. Aim to apply technical expertise and problem-solving skills to build scalable, secure, and efficient systems. Eager to contribute to projects enhancing infrastructure automation, CI/CD pipelines, and cloud-native deployments. Seeking an opportunity to grow, innovate, and make a meaningful impact in a forward-thinking, fast-paced tech environment.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [amrelabbasy2003@gmail.com](mailto:amrelabbasy2003@gmail.com)
