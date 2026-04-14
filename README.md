@@ -9,7 +9,7 @@ Eager to contribute to projects enhancing **infrastructure automation, CI/CD pip
 Currently focusing on **Infrastructure as Code (IaC)**, **Observability**, and **Cloud-Native workflows**.
 
 * 🌍  I'm based in **Egypt**
-* ✉️  You can contact me at [amrelabbasy2003@gmail.com](mailto:amrelabbasy2003@gmail.com)
+* ✉️  You can contact me at [amrel3bbasy@gmail.com](mailto:amrelabbasy2003@gmail.com)
 
 ---
 
